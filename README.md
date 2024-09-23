@@ -24,7 +24,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/brofire-iot.git
+   git clone https://github.com/galahad-arpit03/BroFire-IoT-Project.git
    ```
 2. Install the required libraries:
    - **ESP8266WiFi.h** (for Wi-Fi connectivity)
